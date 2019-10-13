@@ -160,29 +160,10 @@ function percentCorrect(){
   document.getElementById('percent').innerHTML = '% acerto - ' + percentFix + '%';
 }
   
+ let gamers = [];
 
 function test() {
-
-  let gamers = [];
-
-  gamer1 = {
-    nome:'Maria',
-    tempo:'02:30'
-  };
-
-  gamer2 = {
-    nome:'Joao',
-    tempo:'02:45'
-  };
-
-  gamer3 = {
-    nome:'isys',
-    tempo:'01:04'
-  };
-
-  gamers.push(gamer1);
-  gamers.push(gamer2);
-  gamers.push(gamer3);
+  getCookie();
 
   gamers.sort(sortGamers);
 
@@ -227,15 +208,30 @@ function deleteRank() {
     timeContent.parentNode.removeChild(timeContent);
     numberContent.parentNode.removeChild(numberContent);
     nameContent.parentNode.removeChild(nameContent);
+
+    deleteAllCookies();
   }
 }
 
 function setCookie(name, minutos, segundos){
-  document.cookie = name + "=" + minutos+":"+segundos;
+  var cookie = [name, '=', JSON.stringify(minutos+":"+segundos),';'].join('');
+  document.cookie = cookie;
 } 
 
-function getCookie(name) {
-  alert(document.cookie);
+function getCookie() {
+  var cookie = document.cookie.split(';');
+  var reg = /=([^;]+)/;
+  var reg2 = /([^;]+)=/;
+  var result;
+  for (var i = 0; i < cookie.length; i++) {
+    result = reg.exec(cookie[i]);
+    nameR = reg2.exec(cookie[i]);
+    gamers.push({nome: nameR[1], tempo:result[1]});
+
+  }
+  // var result = document.cookie.match(new RegExp('=([^;]+)'));
+  //  console.log(result);
+  //  result && (result = JSON.parse(result[1]));
 }
 
 var minutesL = document.getElementById("minutes");
