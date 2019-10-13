@@ -74,3 +74,18 @@
 .rank-name {
   margin-left: 13%;
 }
+
+@media (max-width: 767px) {
+  .modal-content {
+    width: 90%;
+  }
+
+  .rank-time{
+    margin-left: 2%;
+  }
+
+  .rank-number,
+  .rank-name {
+    margin-left: 5%;
+  }
+}
