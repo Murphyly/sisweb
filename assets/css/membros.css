@@ -159,3 +159,8 @@ div:hover:after {
   justify-content: center;
   text-align: center;
 }
+
+members {
+  display: grid;
+  grid-template-columns: 450px 450px 450px;
+}

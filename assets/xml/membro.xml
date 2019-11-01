@@ -1,0 +1,92 @@
+<MEMBERS>
+    <HEROI>
+        <html xmlns="http://www.w3.org/1999/xhtml">
+            <div>
+                <a href="https://marvelcinematicuniverse.fandom.com/wiki/Shuri">
+                <img src="assets/img/shuri.jpg" title="acessar wiki" alt="imagem da persongem Shuri"></img></a>
+            </div>                                           
+        </html>
+        <NAME>Shuri</NAME>
+    </HEROI>
+    <HEROI>
+        <html xmlns="http://www.w3.org/1999/xhtml">
+            <div>
+                <a href="https://universocinematograficomarvel.fandom.com/pt-br/wiki/Vi%C3%BAva_Negra">
+			    <img src="assets/img/viuva_negra.jpg" title="acessar wiki" alt="imagem da persongem Viúva Negra"></img></a>
+            </div>                                           
+        </html>
+        <NAME>Viúva Negra</NAME>
+    </HEROI>
+    <HEROI>
+        <html xmlns="http://www.w3.org/1999/xhtml">
+            <div>
+                <a href="https://marvelcinematicuniverse.fandom.com/wiki/Gamora">
+			    <img src="assets/img/gamora.jpg" title="acessar wiki" alt="imagem da persongem Gamora"></img></a>
+            </div>                                           
+        </html>
+        <NAME>Gamora</NAME>
+    </HEROI>
+    <HEROI>
+        <html xmlns="http://www.w3.org/1999/xhtml">
+            <div>
+                <a href="https://marvelcinematicuniverse.fandom.com/wiki/Nebula">
+			  	<img src="assets/img/nebula.jpg" title="acessar wiki" alt="imagem da persongem Nebula"></img></a>
+            </div>                                           
+        </html>
+        <NAME>Nebula</NAME>
+    </HEROI>
+    <HEROI>
+        <html xmlns="http://www.w3.org/1999/xhtml">
+            <div>
+                <a href="https://universocinematograficomarvel.fandom.com/pt-br/wiki/Feiticeira_Escarlate">
+			    <img src="assets/img/feiticeira_escarlate.jpg" title="acessar wiki" alt="imagem da persongem Feiticeira Escarlate"></img></a>
+            </div>                                           
+        </html>
+        <NAME>Feiticeira Escarlate</NAME>
+    </HEROI>
+    <HEROI>
+        <html xmlns="http://www.w3.org/1999/xhtml">
+            <div>
+                <a href="https://universocinematograficomarvel.fandom.com/pt-br/wiki/captain-marvel">
+			    <img src="assets/img/captain-marvel.jpg" title="acessar wiki" alt="imagem da persongem Capitã Marvel"></img></a>
+            </div>                                           
+        </html>
+        <NAME>Capitã Marvel</NAME>
+    </HEROI>
+    <HEROI>
+        <html xmlns="http://www.w3.org/1999/xhtml">
+            <div>
+                <a href="https://marvelcinematicuniverse.fandom.com/wiki/Capitao_America">
+			  	<img src="assets/img/captain.jpg" title="acessar wiki" alt="imagem do persongem Capitão América"></img></a>
+            </div>                                           
+        </html>
+        <NAME>Capitão América</NAME>
+    </HEROI>
+    <HEROI>
+        <html xmlns="http://www.w3.org/1999/xhtml">
+            <div>
+                <a href="https://universocinematograficomarvel.fandom.com/pt-br/wiki/Homem_de_Ferro">
+			    <img src="assets/img/iro.jpg" title="acessar wiki" alt="imagem do persongem Homem de Ferro"></img></a>
+            </div>                                           
+        </html>
+        <NAME>Homem de Ferro</NAME>
+    </HEROI>
+    <HEROI>
+        <html xmlns="http://www.w3.org/1999/xhtml">
+            <div>
+                <a href="https://universocinematograficomarvel.fandom.com/pt-br/wiki/Homem_Aranha">
+			    <img src="assets/img/aranha.jpg" title="acessar wiki" alt="imagem do persongem Homem Aranha"></img></a>
+            </div>                                           
+        </html>
+        <NAME>Homem Aranha</NAME>
+    </HEROI>
+    <HEROI>
+        <html xmlns="http://www.w3.org/1999/xhtml">
+            <div>
+                <a href="https://marvelcinematicuniverse.fandom.com/wiki/Thor">
+			  	<img src="assets/img/thor1.jpg" title="acessar wiki" alt="imagem do persongem Thor"></img></a>
+            </div>                                           
+        </html>
+        <NAME>Shuri</NAME>
+    </HEROI>
+</MEMBERS>
