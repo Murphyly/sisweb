@@ -1,6 +1,8 @@
 var c = document.getElementById("myCanvas");
 if (c.getContext){
-    var ctx = c.getContext('2d');
+	var ctx = c.getContext('2d');
+	
+	ctx.strokeStyle = "#FFF";
 
     ctx.beginPath();
     ctx.moveTo(50,0);
