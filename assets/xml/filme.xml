@@ -1,0 +1,192 @@
+<CATALOG>
+    <MOVIE>
+        <TITLEMOVIE>Vingadores - O Início</TITLEMOVIE>
+        <IMG>assets/img/vingadores.jpeg</IMG> 
+        <ALTIMG>capa filme vingadores</ALTIMG>
+        <RESUME>Loki, o irmão de Thor, ganha acesso ao poder ilimitado do cubo cósmico ao roubá-lo de dentro das instalações da S.H.I.E.L.D. Nick Fury, o diretor desta agência internacional que mantém a paz, logo reúne os únicos super-heróis que serão capazes de defender a Terra de ameaças sem precedentes. Homem de Ferro, Capitão América, Hulk, Thor, Viúva Negra e Gavião Arqueiro formam o time dos sonhos de Fury, mas eles precisam aprender a colocar os egos de lado e agir como um grupo em prol da humanidade.</RESUME>
+        <TEASER>https://www.youtube.com/embed/eOrNdBpGMv8</TEASER>                                         
+        <CAST>
+            <ACTOR>Tony Stark / Homem de Ferro </ACTOR>
+            <ACTOR>Steve Rogers / Capitão América </ACTOR>
+            <ACTOR>Bruce Banner / Hulk </ACTOR>
+            <ACTOR>Natasha Romanoff / Viúva Negra </ACTOR>
+            <ACTOR>Clint Barton / Gavião Arqueiro </ACTOR>
+            <ACTOR>Nick Fury </ACTOR>
+            <ACTOR>Thor </ACTOR>
+        </CAST>
+        <REVIEW>http://www.adorocinema.com/filmes/filme-130440/criticas-adorocinema/"target="_blank
+        </REVIEW>
+    </MOVIE>
+    <MOVIE>
+        <TITLEMOVIE>Vingadores: Era de Ultron</TITLEMOVIE>
+        <IMG>assets/img/ultron.jpg</IMG> 
+        <ALTIMG>capa filme vingadores era de ultron</ALTIMG>
+        <RESUME>Ao tentar proteger o planeta de ameaças, Tony Stark constrói um sistema de inteligência artificial que cuidaria da paz mundial. O projeto acaba dando errado e gera o nascimento do Ultron. Com o destino da Terra em jogo, Capitão América, Homem de Ferro, Thor, Hulk, Viúva Negra e Gavião Arqueiro terão que se unir para mais uma vez salvar a raça humana da extinção.</RESUME>
+        <TEASER>https://www.youtube.com/embed/lGO6FcnZ0ek</TEASER>
+        <CAST>
+            <ACTOR>Tony Stark / Homem de Ferro </ACTOR>
+            <ACTOR>Steve Rogers / Capitão América </ACTOR>
+            <ACTOR>Bruce Banner / Hulk </ACTOR>
+            <ACTOR>Natasha Romanoff / Viúva Negra </ACTOR>
+            <ACTOR>Clint Barton / Gavião Arqueiro </ACTOR>
+            <ACTOR>Nick Fury </ACTOR>
+            <ACTOR>Thor </ACTOR>
+            <ACTOR>Wanda Maximoff / Feiticeira Escarlate </ACTOR>
+            <ACTOR>Pietro Maximoff / Mercúrio </ACTOR>
+            <ACTOR>Ultron </ACTOR>
+            <ACTOR>Sam Wilson / Falcão </ACTOR>
+            <ACTOR>J.A.R.V.I.S / Visão </ACTOR>
+            <ACTOR>James Rhodes / Máquina de Combate </ACTOR>
+        </CAST>
+        <REVIEW>http://www.universohq.com/filmes/resenha-os-vingadores-era-de-ultron-traz-acao-incessante-e-muito-humor/</REVIEW>
+    </MOVIE>
+    <MOVIE>
+        <TITLEMOVIE>Vingadores: Guerra Infinita</TITLEMOVIE>
+        <IMG>assets/img/infinita.jpg</IMG> 
+        <ALTIMG>capa vingadores guerra infinita</ALTIMG>
+        <RESUME>Homem de Ferro, Thor, Hulk e os Vingadores se unem para combater seu inimigo mais poderoso, o maligno Thanos. Em uma missão para coletar todas as seis pedras infinitas, Thanos planeja usá-las para infligir sua vontade maléfica sobre a realidade.</RESUME>
+        <TEASER>https://www.youtube.com/embed/t_ULBP6V9bg</TEASER>
+        <CAST>
+            <ACTOR>Tony Stark / Homem de Ferro </ACTOR>
+            <ACTOR>Steve Rogers / Capitão América </ACTOR>
+            <ACTOR>Bruce Banner / Hulk </ACTOR>
+            <ACTOR>Natasha Romanoff / Viúva Negra </ACTOR>
+            <ACTOR>Clint Barton / Gavião Arqueiro </ACTOR>
+            <ACTOR>Nick Fury </ACTOR>
+            <ACTOR>Thor </ACTOR>
+            <ACTOR>Wanda Maximoff / Feiticeira Escarlate </ACTOR>
+            <ACTOR>Pietro Maximoff / Mercúrio </ACTOR>
+            <ACTOR>Ultron </ACTOR>
+            <ACTOR>Sam Wilson / Falcão </ACTOR>
+            <ACTOR>J.A.R.V.I.S / Visão </ACTOR>
+            <ACTOR>James Rhodes / Máquina de Combate </ACTOR>
+            <ACTOR>Stephen Strange / Doutor Estranho </ACTOR>
+            <ACTOR>Peter Parker / Homem-Aranha </ACTOR>
+            <ACTOR>T'Challa / Pantera Negra </ACTOR>
+            <ACTOR>Gamora </ACTOR>
+            <ACTOR>Nebula </ACTOR>
+            <ACTOR>Shuri </ACTOR>
+        </CAST>
+        <REVIEW>http://www.adorocinema.com/filmes/filme-218265/criticas-adorocinema/</REVIEW>
+    </MOVIE>
+
+    <MOVIE>
+        <TITLEMOVIE>Vingadores: Ultimato</TITLEMOVIE>
+        <IMG>assets/img/endgame.jpg</IMG> 
+        <ALTIMG>capa filme vingadores Ultimato</ALTIMG>
+        <RESUME>Após Thanos eliminar metade das criaturas vivas, os Vingadores têm de lidar com a perda de amigos e entes queridos. Com Tony Stark vagando perdido no espaço sem água e comida, Steve Rogers e Natasha Romanov lideram a resistência contra o titã louco.</RESUME>
+        <TEASER>https://www.youtube.com/embed/TcMBFSGVi1c</TEASER>
+        <CAST>
+            <ACTOR>Tony Stark / Homem de Ferro </ACTOR>
+            <ACTOR>Steve Rogers / Capitão América </ACTOR>
+            <ACTOR>Bruce Banner / Hulk </ACTOR>
+            <ACTOR>Natasha Romanoff / Viúva Negra </ACTOR>
+            <ACTOR>Clint Barton / Gavião Arqueiro </ACTOR>
+            <ACTOR>Nick Fury </ACTOR>
+            <ACTOR>Thor </ACTOR>
+            <ACTOR>Wanda Maximoff / Feiticeira Escarlate </ACTOR>
+            <ACTOR>Pietro Maximoff / Mercúrio </ACTOR>
+            <ACTOR>Ultron </ACTOR>
+            <ACTOR>Sam Wilson / Falcão </ACTOR>
+            <ACTOR>J.A.R.V.I.S / Visão </ACTOR>
+            <ACTOR>James Rhodes / Máquina de Combate </ACTOR>
+            <ACTOR>Stephen Strange / Doutor Estranho </ACTOR>
+            <ACTOR>Peter Parker / Homem-Aranha </ACTOR>
+            <ACTOR>T'Challa / Pantera Negra </ACTOR>
+            <ACTOR>Gamora </ACTOR>
+            <ACTOR>Nebula </ACTOR>
+            <ACTOR>Scott Lang / Homem-Formiga </ACTOR>
+            <ACTOR>Carol Danvers / Capitã Marvel </ACTOR>
+            <ACTOR>Virginia "Pepper" Potts </ACTOR>
+            <ACTOR>Shuri </ACTOR>
+        </CAST>
+        <REVIEW>https://metagalaxia.com.br/filmes/vingadores-ultimato-resenha/</REVIEW>
+    </MOVIE>
+
+    <MOVIE>
+        <TITLEMOVIE>Thor</TITLEMOVIE>
+        <IMG>assets/img/thor.jpg</IMG> 
+        <ALTIMG>capa filme thor</ALTIMG>
+        <RESUME>Como filho de Odin, rei dos deuses nórdicos, Thor logo herdará o trono de Asgard de seu idoso pai. Porém, no dia de sua coroação, Thor reage com brutalidade quando os inimigos dos deuses entram no palácio violando o tratado. Como punição, Odin manda Thor para a Terra. Enquanto seu irmão Loki conspira em Asgard, Thor, agora sem seus poderes, enfrenta sua maior ameaça.</RESUME>
+        <TEASER>https://www.youtube.com/embed/JOddp-nlNvQ</TEASER>
+        <CAST>
+            <ACTOR>Thor </ACTOR>
+        </CAST>
+        <REVIEW>http://www.adorocinema.com/filmes/filme-129477/criticas-adorocinema/</REVIEW>
+    </MOVIE>
+    <MOVIE>
+        <TITLEMOVIE>Capitão América: O Primeiro Vingador</TITLEMOVIE>
+        <IMG>assets/img/cap1.jpg</IMG> 
+        <ALTIMG>capa filme capitão america</ALTIMG>
+        <RESUME>Steve Rogers é um jovem que participa de experiências visando a criação do supersoldado americano. Quando os oficiais militares conseguem transformá-lo em uma arma humana, eles percebem que não podem arriscar a vida do jovem nas batalhas de guerra.</RESUME>
+        <TEASER>https://www.youtube.com/embed/-006iHDHK34</TEASER>
+        <CAST>
+            <ACTOR>Steve Rogers / Capitão América </ACTOR>
+        </CAST>
+        <REVIEW>http://www.adorocinema.com/filmes/filme-130440/criticas-adorocinema/</REVIEW>
+    </MOVIE>
+
+    <MOVIE>
+        <TITLEMOVIE>Capitão América 2: O Soldado Invernal</TITLEMOVIE>
+        <IMG>assets/img/cap2.jpeg</IMG> 
+        <ALTIMG>capa filme capitao america 2</ALTIMG>
+        <RESUME>Após os eventos catastróficos em Nova York com Os Vingadores, Steve Rogers, também conhecido como Capitão América, segue tentando se ajustar ao mundo moderno. Porém, quando um colega da agência S.H.I.E.L.D. é atacado, Steve se vê preso em uma rede de intrigas que ameaça colocar o mundo em risco. Em parceria com a Viúva Negra e Falcão, seu novo aliado, o Capitão América tem que enfrentar um misterioso e inesperado inimigo, o Soldado Invernal.</RESUME>
+        <TEASER>https://www.youtube.com/embed/CTdvZwwShqM</TEASER>
+        <CAST>
+            <ACTOR>Steve Rogers / Capitão América </ACTOR>
+        </CAST>
+        <REVIEW>http://www.universohq.com/filmes/resenha-os-vingadores-era-de-ultron-traz-acao-incessante-e-muito-humor/</REVIEW>
+    </MOVIE>
+
+    <MOVIE>
+        <TITLEMOVIE>Capitão América 3: Guerra Civil</TITLEMOVIE>
+        <IMG>assets/img/cap3.jpg</IMG> 
+        <ALTIMG>capa filme capitao america 3</ALTIMG>
+        <RESUME>O ataque de Ultron faz com que os políticos decidam controlar os Vingadores, já que seus atos afetam toda a humanidade. Tal decisão coloca o Capitão América em rota de colisão com o Homem de Ferro.</RESUME>
+        <TEASER>https://www.youtube.com/embed/FRLYZn5PGuA</TEASER>
+        <CAST>
+            <ACTOR>Steve Rogers / Capitão América </ACTOR>
+        </CAST>
+        <REVIEW>http://www.adorocinema.com/filmes/filme-218265/criticas-adorocinema/</REVIEW>
+    </MOVIE>
+
+    <MOVIE>
+        <TITLEMOVIE>Guardiões da Galáxia</TITLEMOVIE>
+        <IMG>assets/img/guard1.jpg</IMG> 
+        <ALTIMG>filme guardiões da galáxia"</ALTIMG>
+        <RESUME>O aventureiro do espaço Peter Quill torna-se presa de caçadores de recompensas depois que rouba a esfera de um vilão traiçoeiro, Ronan. Para escapar do perigo, ele faz uma aliança com um grupo de quatro extraterrestres. Quando Quill descobre que a esfera roubada possui um poder capaz de mudar os rumos do universo, ele e seu grupo deverão proteger o objeto para salvar o futuro da galáxia.</RESUME>
+        <TEASER>https://www.youtube.com/embed/8VN_l57QWyQ</TEASER>
+        <CAST>
+            <ACTOR>Senhor das Estrelas </ACTOR>
+            <ACTOR>Gamora </ACTOR>
+            <ACTOR>Drax, o Destruidor </ACTOR>
+            <ACTOR>Groot </ACTOR>
+            <ACTOR>Rocket Raccoon </ACTOR>
+            <ACTOR>Mantis </ACTOR>
+            <ACTOR>Adam Warlock </ACTOR>
+            <ACTOR>Quasar </ACTOR>
+            <ACTOR>Major Victory </ACTOR>
+        </CAST>
+        <REVIEW>https://metagalaxia.com.br/filmes/vingadores-ultimato-resenha/</REVIEW>
+    </MOVIE>
+
+    <MOVIE>
+        <TITLEMOVIE>Guardiões da Galáxia Vol. 2</TITLEMOVIE>
+        <IMG>assets/img/guard2.jpeg</IMG> 
+        <ALTIMG>capa filme guardiões da galáxia 2</ALTIMG>
+        <RESUME>Os Guardiões precisam lutar para manter sua recém descoberta família unida, enquanto descobrem os mistérios sobre o verdadeiro pai de Peter Quill.</RESUME>
+        <TEASER>https://www.youtube.com/embed/4-i8nTNSQFI</TEASER>
+        <CAST>
+            <ACTOR>Senhor das Estrelas </ACTOR>
+            <ACTOR>Gamora </ACTOR>
+            <ACTOR>Drax, o Destruidor </ACTOR>
+            <ACTOR>Groot </ACTOR>
+            <ACTOR>Rocket Raccoon </ACTOR>
+            <ACTOR>Mantis </ACTOR>
+            <ACTOR>Adam Warlock </ACTOR>
+            <ACTOR>Quasar </ACTOR>
+            <ACTOR>Major Victory </ACTOR>
+        </CAST>
+        <REVIEW>http://www.adorocinema.com/filmes/filme-129477/criticas-adorocinema/</REVIEW>
+    </MOVIE>
+</CATALOG>

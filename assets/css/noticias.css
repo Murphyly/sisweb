@@ -1,12 +1,45 @@
-p, hr, h2, a {
+p, hr, h2, a, .news {
 	padding: 2%;
 }
 
+h2, h6, .news a:hover {
+	color: #c6c6c6;
+}
+
 p {
-	background: -webkit-linear-gradient(to right, #240b36, #c31432);  /* Chrome 10-25, Safari 5.1-6 */
+  margin: 5%;
+  text-align: justify;
+  background: -webkit-linear-gradient(to right, #240b36, #c31432);  /* Chrome 10-25, Safari 5.1-6 */
   background: linear-gradient(to right, #240b36, #c31432); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
-a:hover {
-	color: blue;
+@media (min-width: 767px) {
+	.news {
+		display: grid;
+		grid-template-columns: repeat(auto-fill, minmax(30%, 1fr));
+		grid-gap: 1rem;
+		margin-top: 50px;
+	}
 }
+
+.news {
+	display: grid;
+	grid-gap: 1rem;
+}
+
+article {
+	height: 320px;
+	background-color: rgba(229, 172, 241, 0.164);
+	padding: 2%;
+}
+
+.news a {
+	text-decoration: none;
+	color: #ac4967;
+	font-weight: bold;
+}
+
+.news a:hover {
+	text-decoration: none;
+}
+

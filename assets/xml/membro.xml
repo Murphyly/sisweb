@@ -1,0 +1,52 @@
+<MEMBERS>
+    <HEROI>
+        <linkheroi>https://marvelcinematicuniverse.fandom.com/wiki/Shuri</linkheroi>
+        <img>assets/img/shuri.jpg" title="acessar wiki" alt="imagem da persongem Shuri</img>
+        <NAME>Shuri</NAME>
+    </HEROI>
+    <HEROI>
+        <linkheroi>https://universocinematograficomarvel.fandom.com/pt-br/wiki/Vi%C3%BAva_Negra</linkheroi>
+        <img>assets/img/viuva_negra.jpg" title="acessar wiki" alt="imagem da persongem Viúva Negra</img>
+        <NAME>Viúva Negra</NAME>
+    </HEROI>
+    <HEROI>
+        <linkheroi>https://marvelcinematicuniverse.fandom.com/wiki/Gamora</linkheroi>
+        <img>assets/img/gamora.jpg" title="acessar wiki" alt="imagem da persongem Gamora</img>
+        <NAME>Gamora</NAME>
+    </HEROI>
+    <HEROI>
+        <linkheroi>https://marvelcinematicuniverse.fandom.com/wiki/Nebula</linkheroi>
+        <img>assets/img/nebula.jpg" title="acessar wiki" alt="imagem da persongem Nebula</img>
+        <NAME>Nebula</NAME>
+    </HEROI>
+    <HEROI>
+        <linkheroi>https://universocinematograficomarvel.fandom.com/pt-br/wiki/Feiticeira_Escarlate</linkheroi>
+        <img>assets/img/feiticeira_escarlate.jpg" title="acessar wiki" alt="imagem da persongem Feiticeira Escarlate</img>
+        <NAME>Feiticeira Escarlate</NAME>
+    </HEROI>
+    <HEROI>
+        <linkheroi>https://universocinematograficomarvel.fandom.com/pt-br/wiki/captain-marvel</linkheroi>
+        <img>assets/img/captain-marvel.jpg" title="acessar wiki" alt="imagem da persongem Capitã Marvel</img>
+        <NAME>Capitã Marvel</NAME>
+    </HEROI>
+    <HEROI>
+        <linkheroi>https://marvelcinematicuniverse.fandom.com/wiki/Capitao_America</linkheroi>
+        <img>assets/img/captain.jpg" title="acessar wiki" alt="imagem do persongem Capitão América</img>
+        <NAME>Capitão América</NAME>
+    </HEROI>
+    <HEROI>
+        <linkheroi>https://universocinematograficomarvel.fandom.com/pt-br/wiki/Homem_de_Ferro</linkheroi>
+        <img>assets/img/iro.jpg" title="acessar wiki" alt="imagem do persongem Homem de Ferro</img>
+        <NAME>Homem de Ferro</NAME>
+    </HEROI>
+    <HEROI>
+        <linkheroi>https://universocinematograficomarvel.fandom.com/pt-br/wiki/Homem_Aranha</linkheroi>
+        <img>assets/img/aranha.jpg" title="acessar wiki" alt="imagem do persongem Homem Aranha</img>
+        <NAME>Homem Aranha</NAME>
+    </HEROI>
+    <HEROI>
+        <linkheroi>https://marvelcinematicuniverse.fandom.com/wiki/Thor</linkheroi>
+        <img>assets/img/thor1.jpg" title="acessar wiki" alt="imagem do persongem Thor</img>
+        <NAME>Shuri</NAME>
+    </HEROI>
+</MEMBERS>

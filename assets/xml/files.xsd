@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="MEMBERS">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="HEROI"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="HEROI">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="linkheroi"/>
+        <xs:element ref="img"/>
+        <xs:element ref="NAME"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="linkheroi" type="xs:anyURI"/>
+  <xs:element name="img" type="xs:string"/>
+  <xs:element name="NAME" type="xs:string"/>
+</xs:schema>
+
+<!-- Noticias -->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="NEWS">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="article"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="article">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="titlenotice"/>
+        <xs:element minOccurs="0" ref="h4"/>
+        <xs:element ref="datanotice"/>
+        <xs:element ref="notice"/>
+        <xs:element ref="link"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="titlenotice" type="xs:string"/>
+  <xs:element name="h4" type="xs:string"/>
+  <xs:element name="datanotice" type="xs:string"/>
+  <xs:element name="notice" type="xs:string"/>
+  <xs:element name="link" type="xs:anyURI"/>
+</xs:schema>
+
+
+<!-- Filmes  -->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="CATALOG">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="MOVIE"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="MOVIE">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="TITLEMOVIE"/>
+        <xs:element ref="IMG"/>
+        <xs:element ref="ALTIMG"/>
+        <xs:element ref="RESUME"/>
+        <xs:element ref="TEASER"/>
+        <xs:element ref="CAST"/>
+        <xs:element ref="REVIEW"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="TITLEMOVIE" type="xs:string"/>
+  <xs:element name="IMG" type="xs:string"/>
+  <xs:element name="ALTIMG" type="xs:string"/>
+  <xs:element name="RESUME" type="xs:string"/>
+  <xs:element name="TEASER" type="xs:anyURI"/>
+  <xs:element name="CAST">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="ACTOR"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ACTOR" type="xs:string"/>
+  <xs:element name="REVIEW" type="xs:anyURI"/>
+</xs:schema>
