@@ -9,22 +9,9 @@ h2 {
   padding-left: 2%;
 }
 
-.main-hr{
-  margin-left: 2%;
-}
-
-table {
-  display: flex;
-  justify-content: center;
-  padding: 2%;
-}
-
-td {
-  padding: 2%;
-}
-
-table tr td{
-  align-self: center;
+hr{
+  width: 50%;
+  margin-left: 25%;
 }
 
 div {
@@ -142,25 +129,15 @@ div:hover:after {
   }
 }
 
-@media (max-width: 767px) {
- table {
-  display: block;
-  position: relative;
-  width: 100%;
-  }
-
- thead,tbody,th,td,tr {
-  display: block;
- }
-}
-
-.center {
-  display: flex;
-  justify-content: center;
-  text-align: center;
-}
-
-members {
+.members {
+  margin-top: 15%;
   display: grid;
   grid-template-columns: 450px 450px 450px;
+}
+
+@media (max-width: 767px) {
+  .members {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
 }

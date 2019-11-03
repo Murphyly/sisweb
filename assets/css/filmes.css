@@ -7,12 +7,11 @@ iframe, embed{
 	height: 400px;
 }
 
-resume {
+p {
 	background: -webkit-linear-gradient(to right, #240b36, #c31432);  /* Chrome 10-25, Safari 5.1-6 */
   	background: linear-gradient(to right, #240b36, #c31432); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 	text-align: justify;
 	padding: 2%;
-	margin-right: 5%;
 	height: 350px;
 	display: flex;
 	align-items: center;
@@ -34,40 +33,51 @@ resume {
 	height: 300px;
 }
 
-MOVIE {
+article {
 	display: grid;
-	grid-template-columns: 20% 25% 32% 20% 3%;
+	grid-template-columns: repeat(auto-fill, minmax(25%, 1fr));
 	align-items: center;
-	grid-row-gap: 5%;
+	background-color: rgba(229, 172, 241, 0.164);
+	grid-gap: 1rem;
+	padding: 2%;
+	margin-bottom: 2%;
 }
 
 
-TITLEMOVIE {
+h2 {
 	font-family: Monteserrat;
 	font-size: 2rem;
 }
 
-CAST{
-	display: flex;
-	flex-wrap: wrap;
-	font-size: 12px;
-	margin-left: 8%;
-}
-
-ACTOR {
-	margin-top: 2%;
-}
+ .movies ul{
+	 padding: 2%;
+ }
 
 @media (max-width: 767px) {
-	MOVIE {
+	article {
 		grid-template-columns: 1fr;
 	}
 
-	TITLEMOVIE {
+	h2{
 		font-size: 1rem;
 	}
 
-	CAST{
+	ul{
 		margin-bottom: 100%;
 	}
+}
+
+.movies a {
+	text-decoration: none;
+	color: #ac4967;
+	font-weight: bold;
+}
+
+.movies a:hover {
+	text-decoration: none;
+	color: antiquewhite;
+}
+
+h5 {
+	margin-bottom: 2%;
 }

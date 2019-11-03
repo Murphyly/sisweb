@@ -1,0 +1,98 @@
+<?xml encoding="UTF-8"?>
+
+<!-- Membros -->
+
+<!ELEMENT MEMBERS (HEROI)+>
+<!ATTLIST MEMBERS
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT HEROI (linkheroi,img,NAME)>
+<!ATTLIST HEROI
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT linkheroi (#PCDATA)>
+<!ATTLIST linkheroi
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT img (#PCDATA)>
+<!ATTLIST img
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT NAME (#PCDATA)>
+<!ATTLIST NAME
+  xmlns CDATA #FIXED ''>
+
+<!-- Noticias -->
+
+<!ELEMENT NEWS (article)+>
+<!ATTLIST NEWS
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT article (titlenotice,h4?,datanotice,notice,link)>
+<!ATTLIST article
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT titlenotice (#PCDATA)>
+<!ATTLIST titlenotice
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT h4 (#PCDATA)>
+<!ATTLIST h4
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT datanotice (#PCDATA)>
+<!ATTLIST datanotice
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT notice (#PCDATA)>
+<!ATTLIST notice
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT link (#PCDATA)>
+<!ATTLIST link
+  xmlns CDATA #FIXED ''>
+
+  <!-- Filmes -->
+
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT CATALOG (MOVIE)+>
+<!ATTLIST CATALOG
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT MOVIE (TITLEMOVIE,IMG,ALTIMG,RESUME,TEASER,CAST,REVIEW)>
+<!ATTLIST MOVIE
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT TITLEMOVIE (#PCDATA)>
+<!ATTLIST TITLEMOVIE
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT IMG (#PCDATA)>
+<!ATTLIST IMG
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT ALTIMG (#PCDATA)>
+<!ATTLIST ALTIMG
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT RESUME (#PCDATA)>
+<!ATTLIST RESUME
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT TEASER (#PCDATA)>
+<!ATTLIST TEASER
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT CAST (ACTOR)+>
+<!ATTLIST CAST
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT REVIEW (#PCDATA)>
+<!ATTLIST REVIEW
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT ACTOR (#PCDATA)>
+<!ATTLIST ACTOR
+  xmlns CDATA #FIXED ''>
+
