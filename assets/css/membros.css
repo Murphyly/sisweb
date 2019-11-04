@@ -130,13 +130,13 @@ div:hover:after {
 }
 
 .members {
-  margin-top: 15%;
   display: grid;
   grid-template-columns: 450px 450px 450px;
 }
 
 @media (max-width: 767px) {
   .members {
+    margin-top: 15%;
     display: grid;
     grid-template-columns: 1fr;
   }
