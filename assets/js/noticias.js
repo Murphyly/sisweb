@@ -1,22 +1,21 @@
 var i = 0, qtdData;
 getData(0);
 function getData(i) {
-var xmlhttp = new XMLHttpRequest();
-xmlhttp.onreadystatechange = function() {
+var parserHttp = new XMLHttpRequest();
+parserHttp.onreadystatechange = function() {
     if (this.readyState == 4 && this.status == 200) {
-        document.getElementById("news").innerHTML = this.responseText;
-        var datas = this.responseXML.getElementsByTagName("article");
-        var section=' ';
-        for(i = 0; i < datas.length; i++)
-        section += '<article><h2>' + datas[i].getElementsByTagName("titlenotice")[0].childNodes[0].nodeValue + '</h2><h5>' 
-        + datas[i].getElementsByTagName("datanotice")[0].childNodes[0].nodeValue + '</h5><p>' + 
-        datas[i].getElementsByTagName("notice")[0].childNodes[0].nodeValue + '</p><a href="' + 
-        datas[i].getElementsByTagName("link")[0].childNodes[0].nodeValue + '">Veja aqui</a></article>';
+        var section = " ";
+        var objeto = JSON.parse(this.responseText);
+        for(i in objeto.news)
+        section += '<article><h2>' + objeto.news[i].titlenotice + '</h2><h5>' 
+        + objeto.news[i].datanotice + '</h5><p>' + 
+        objeto.news[i].notice + '</p><a href="' + 
+        objeto.news[i].link + '">Veja aqui</a></article>';
         document.getElementById('news').innerHTML = section;
     }
      };
-     xmlhttp.open("GET", "/assets/xml/noticia.xml", true); 
-     xmlhttp.send();
+     parserHttp.open("GET", "/assets/json/noticias.json", true); 
+     parserHttp.send();
  }
 
  function proximo() {
